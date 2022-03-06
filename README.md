@@ -31,7 +31,7 @@
 
 8. 亮度按键、音量按键（包括机身上的音量按键）  
 
-9. HiDPI，使用一键[HiDPI](https://github.com/xzhih/one-key-hidpi)脚本，在最后手动输入几个3:2分辨率，注意纵向分辨率最好不要超过`800`，避免出现雪花等问题。
+9. HiDPI，使用一键[HiDPI](https://github.com/xzhih/one-key-hidpi)脚本。
 
 10. WiFI
 

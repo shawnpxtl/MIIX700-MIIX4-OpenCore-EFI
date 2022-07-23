@@ -1,3 +1,5 @@
+想要Ventura的可以点[这里](https://github.com/chrisblue/MIIX700-MIIX4-OpenCore-EFI/tree/Ventura)
+
 # Miix700-Hackintosh-Monterey-OpenCore
 
 本套EFI可以保证启动并且适应macOS Monterey系统，并且除了不工作的硬件之外没有太大毛病

@@ -1,4 +1,4 @@
-想要Ventura的可以点[这里](https://github.com/chrisblue/MIIX700-MIIX4-OpenCore-EFI/tree/Ventura)，该版本已修复HDMI
+想要Ventura的可以点[这里](https://github.com/chrisblue/MIIX700-MIIX4-OpenCore-EFI/tree/Ventura)，该版本(即Ventura)已修复HDMI
 
 # Miix700-Hackintosh-Monterey-OpenCore
 
